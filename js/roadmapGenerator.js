@@ -1,5 +1,7 @@
 console.log('Arquivo carregado: roadmapGenerator.js')
 
+import { iconOptions } from './config.js';
+
 export function generateRoadmap(projectTitle, projectObjective, steps) {
   const roadmapHTML = `
       <div class="max-w-6xl w-full">

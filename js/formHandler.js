@@ -1,5 +1,5 @@
 export function getFormData(form){
-  const formData = new FormData(e.target);
+  const formData = new FormData(form);
   const projectTitle = formData.get('projectTitle');
   const projectObjective = formData.get('projectObjective');
   const steps = [];
