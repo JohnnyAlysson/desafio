@@ -1,5 +1,4 @@
 console.log('Arquivo carregado: stepManager.js')
-alert('Se você ver este alerta, o main.js foi carregado com sucesso!')
 
 import { iconOptions } from './config.js';
 

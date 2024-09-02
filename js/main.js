@@ -1,8 +1,8 @@
 console.log('Arquivo carregado: main.js')
 
-import { addStep,removeStep } from "./stepManager";
-import { getFormData } from "./formHandler";
-import { generateRoadmap } from "./roadmapGenerator";
+import { addStep,removeStep } from "./stepManager.js";
+import { getFormData } from "./formHandler.js";
+import { generateRoadmap } from "./roadmapGenerator.js";
 
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -25,6 +25,5 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   // Inicializa com uma etapa
-  console.log("Inicializando")
   addStep();
 });
