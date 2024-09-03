@@ -117,6 +117,7 @@ body {
 }
 
 .button {
+    margin-top: 2rem;
     padding: 12px 24px;
     border: none;
     border-radius: 10px;
