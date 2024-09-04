@@ -4,7 +4,7 @@ export function getFormData(form){
   const projectObjective = formData.get('projectObjective');
   const steps = [];
 
-  document.querySelectorAll('#stepsContainer > div').forEach((stepElement, index) => {
+  document.querySelectorAll('#stepsContainer > .step').forEach((stepElement, index) => {
     steps.push({
         date: formData.get(`date-${index}`),
         icon: formData.get(`icon-${index}`),

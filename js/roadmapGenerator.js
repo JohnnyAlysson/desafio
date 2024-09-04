@@ -4,7 +4,7 @@ import { iconOptions } from './config.js';
 
 export function generateRoadmap(projectTitle, projectObjective, steps) {
   const roadmapHTML = `
-      <div class="max-w-6xl w-full">
+      <section class="roadmap max-w-6xl w-full">
           <h1 class="text-3xl md:text-4xl font-bold mb-8 md:mb-12 text-center">${projectTitle}</h1>
           <div class="grid grid-cols-1 md:grid-cols-[1fr,auto,1fr] gap-4">
               <div class="space-y-8 md:space-y-12 text-left md:text-right">
@@ -66,7 +66,7 @@ export function generateRoadmap(projectTitle, projectObjective, steps) {
               <div>${steps[Math.floor(steps.length / 2)]?.date || ''}</div>
               <div>${steps[steps.length - 1]?.date || ''}</div>
           </div>
-      </div>
+      </section>
   `;
 
   document.getElementById('app').classList.add('hidden');
