@@ -6,7 +6,7 @@ let stepCount = 0;
 
 export function createStepHTML(index) {
   return `
-      <div class="p-4 bg-gray-50 rounded-md relative transition-all duration-300 ease-in-out" data-step-index="${index}">
+      <div class="step p-4 bg-gray-50 rounded-md relative transition-all duration-300 ease-in-out" data-step-index="${index}">
           <h3 class="font-medium mb-2">Etapa ${index + 1}</h3>
           <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
               <div>
@@ -40,7 +40,7 @@ export function createStepHTML(index) {
 }
 
 export function updateStepNumbers() {
-  document.querySelectorAll('#stepsContainer > div').forEach((step, index) => {
+  document.querySelectorAll('#stepsContainer > .step').forEach((step, index) => {
       step.querySelector('h3').textContent = `Etapa ${index + 1}`;
       step.dataset.stepIndex = index;
   });
